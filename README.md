@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gadgets360cdn.com/large/github_twitter_full_1570696775252.jpg?downsize=950:*)]
+![MasterHead](https://i.gadgets360cdn.com/large/github_twitter_full_1570696775252.jpg?downsize=950:*)
 
 <h1 align="center">Hi 👋, I'm Kalim Mulani</h1>
 <h3 align="center">A passionate software developer from Pune</h3>
