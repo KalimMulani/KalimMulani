@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying at **SPPU University**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I've completed my diploma from **Government Polytechnic ,Miraj**
 
